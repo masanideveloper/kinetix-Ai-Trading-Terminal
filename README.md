@@ -5,8 +5,9 @@
 
 [![Status](https://img.shields.io/badge/Status-Private_Alpha_Waitlist-F0B90B?style=for-the-badge&logo=rocket&logoColor=black)](#early-access--waitlist)
 [![Architecture](https://img.shields.io/badge/Architecture-10_Quant_Desks_%2B_VectorBT-0ECB81?style=for-the-badge&logo=cpu&logoColor=white)](#-the-10-independent-quantitative-desks)
-[![Execution](https://img.shields.io/badge/Execution-Sub--Millisecond_MEXC_%26_Binance-38BDF8?style=for-the-badge&logo=fastapi&logoColor=black)](#-execution-engine--institutional-risk-guard)
-[![Community](https://img.shields.io/badge/Community-Join_Telegram_Alpha-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](#early-access--waitlist)
+[![Telegram](https://img.shields.io/badge/Telegram-@masanidev-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masanidev)
+[![Email](https://img.shields.io/badge/Email-masanideveloper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masanideveloper@gmail.com)
+[![Developer](https://img.shields.io/badge/Developer-masanidev-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masanideveloper)
 
 <br />
 
@@ -134,13 +135,14 @@ Every single token scan runs through our 10 autonomous quantitative modules. Whe
 
 ## 🎟️ Early Access & Waitlist
 
-We are currently onboarding our first cohort of private alpha traders.
+We are currently onboarding our first cohort of private alpha traders, quantitative researchers, and VIP testers.
 
-If you are a crypto futures trader, quantitative researcher, or algorithmic enthusiast looking for an institutional edge:
+To request private access, inquire about early testing, or discuss institutional deployment:
 
-👉 **[Join the Official Telegram Alpha Channel](https://t.me/)**  
-👉 **[Star this Repository on GitHub](https://github.com/) to receive release notifications**  
-👉 **Follow announcements and watch for early access whitelist drops**
+- 💬 **Telegram**: [@masanidev](https://t.me/masanidev)
+- ✉️ **Inquiries & Email**: [masanideveloper@gmail.com](mailto:masanideveloper@gmail.com)
+- 🐙 **GitHub Developer**: [@masanideveloper](https://github.com/masanideveloper)
+- ⭐ **Star this repository** to track upcoming alpha drops and public releases!
 
 ---
 
