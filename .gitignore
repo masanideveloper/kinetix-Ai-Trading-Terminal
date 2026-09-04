@@ -1,0 +1,34 @@
+# ==============================================================================
+# KINETIX AI - PUBLIC SHOWCASE REPO WHITELIST
+# Only README.md and assets/ (screenshots) are tracked for GitHub Showcase
+# ==============================================================================
+
+# Ignore all source code, algorithms, and sensitive assets
+*
+!README.md
+!assets/
+!assets/**
+!.gitignore
+
+# Never commit environment variables or credentials
+.env
+*.env
+*.key
+*.pem
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Trading Database & Logs
+data/
+logs/
+*.db
+*.sqlite
+*.log
