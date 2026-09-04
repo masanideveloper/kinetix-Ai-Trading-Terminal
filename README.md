@@ -55,10 +55,10 @@ Built from the ground up for high-precision algorithmic execution on **MEXC Perp
                                                 │
                                                 ▼
                    ┌────────────────────────────────────────────────────────────┐
-                   │            MULTI-AGENT NEURAL SUPERVISORY COUNCIL          │
-                   │   • Google Gemini 2.5 Flash · Groq Cloud · DeepSeek        │
-                   │   • Macro HTF Trend Confirmation (1h / 4h Alignment)       │
-                   │   • Chaikin / Volatility Regime Filter (CHOP > 60 Skipped) │
+                   │       MULTI-STRATEGY CONFLUENCE & SMC STRUCTURAL GATE      │
+                   │   • Confluence Gate: Minimum 3+ Confirming Strategies       │
+                   │   • SMC Structural Bias: Blocks Trading into Overhead Walls │
+                   │   • OpenRouter Dynamic AI Matrix & Real-Time Macro News    │
                    └────────────────────────────┬───────────────────────────────┘
                                                 │
                                                 ▼
