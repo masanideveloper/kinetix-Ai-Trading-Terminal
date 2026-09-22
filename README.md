@@ -15,7 +15,7 @@
 
 Built from the ground up for high-precision algorithmic execution on **MEXC Perpetual Futures** and **Binance Futures**.
 
-[Request Early Access](#early-access--waitlist) · [Live Dashboard](#-interface-showcase) · [Quantitative Desks](#-the-10-independent-quantitative-desks) · [Roadmap](#-release-roadmap)
+[Request Early Access](#early-access--waitlist) · [Live Dashboard](#-interface-showcase) · [Quantitative Desks](#-the-10-independent-quantitative-desks) · [Website](https://kinetix-trading.all-in89.com)
 
 <br />
 
