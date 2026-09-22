@@ -138,6 +138,8 @@ Every single token scan runs through our 10 autonomous quantitative modules. Whe
 We are currently onboarding our first cohort of private alpha traders, quantitative researchers, and VIP testers.
 
 To request private access, inquire about early testing, or discuss institutional deployment:
+**Download the software**: [website](https://kinetix-trading.all-in89.com)
+
 
 - 💬 **Telegram**: [@masanidev](https://t.me/masanidev)
 - ✉️ **Inquiries & Email**: [masanideveloper@gmail.com](mailto:masanideveloper@gmail.com)
